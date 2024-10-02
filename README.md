@@ -155,10 +155,3 @@ The project includes the following key dependencies:
 
 - You can adjust the **Top-K** parameter in the **`chat()`** method to retrieve more or fewer results by modifying `withTopK(10)`.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
